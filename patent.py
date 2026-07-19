@@ -1,0 +1,5 @@
+print("patient : albert")
+print("age : 30")
+print("gender : male")
+print("doctor : dr. smith")
+print("problem : headache")
